@@ -1,3 +1,13 @@
 Sumpin
 
-npm this hotness
+Setup
+---
+```
+npm install
+```
+
+Compile
+---
+```
+npm run compile
+```
